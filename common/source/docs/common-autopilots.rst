@@ -190,6 +190,7 @@ Closed Hardware
     SpeedyBee F4 V3/V4 <common-speedybeef4-v3>
     SpeedyBee F405 Mini <common-speedybeef405-mini>
     SpeedyBeeF405WING/WING Mini <common-speedybeef405wing>
+    SVehicle E2-Plus <https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/SVehicle-E2>
     TBS Lucid H7 <common-tbs-lucidh7>
     TBS Lucid H7 Wing <common-tbs-lucid-h7-wing>
     ThePeach FCC-K1 <common-thepeach-k1>
